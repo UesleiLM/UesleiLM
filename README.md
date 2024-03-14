@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello! I'm Ueslei Lima
 
-<!--
-**UesleiLM/UesleiLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-Here are some ideas to get you started:
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+Most Used Languages:
+- [Java](https://www.java.com/en/): 38.86%
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): 35.85%
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5): 22.80%
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): 2.49%
+
+Contact me:
+- [Instagram](https://www.instagram.com/yourinstagramusername/)
+- [Proton Mail](https://protonmail.com/)
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedinusername/)

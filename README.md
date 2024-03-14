@@ -21,6 +21,6 @@ Most Used Languages:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): 2.49%
 
 Contact me:
-- [Instagram](https://www.instagram.com/yourinstagramusername/)
-- [Proton Mail](https://protonmail.com/)
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinusername/)
+- [E-mail](mailto:uesleilima2003@gmail.com)
+
+- [LinkedIn](https://www.linkedin.com/in/ueslei-lima-110094177/)

@@ -1,5 +1,5 @@
 # Hello! I'm Ueslei Lima
-
+### Currently studying
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -8,13 +8,9 @@
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Most Used Languages:
-- [Java](https://www.java.com/en/): 38.86%
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): 35.85%
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5): 22.80%
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): 2.49%
+### Contact me
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uesleilima2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ueslei-lima-110094177/)
 
-Contact me:
-- [E-mail](mailto:uesleilima2003@gmail.com)
 
-- [LinkedIn](https://www.linkedin.com/in/ueslei-lima-110094177/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olvrlucvs&layout=compact)
